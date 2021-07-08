@@ -5,7 +5,7 @@
 
 `Italics can use *asterisks* or _underscores_.`
 
-Italics can use *asterisks* or _underscores_.   
+Italics can use *asterisks* or _underscores_.<br><br>
 
 
 `Bold face also uses **asterisks** or __underscores__.`
