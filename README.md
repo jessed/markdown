@@ -8,7 +8,7 @@
 Italics can use *asterisks* or _underscores_.
 
 
-`Bold face also uses **asterisks** or __underscores__.
+`Bold face also uses **asterisks** or __underscores__.`
 
 Bold face also uses **asterisks** or __underscores__.
 
