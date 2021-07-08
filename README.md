@@ -1,6 +1,7 @@
 # markdown
 
 #This is a heading 1
+
 ##This is a heading 2
 
 This is how [a link](https://duckduckgo.com "Duck Duck Go") is embedded.
