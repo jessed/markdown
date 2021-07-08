@@ -22,6 +22,7 @@ _Underscores_ can also be __used__ for ___emphasis___, which is very *Perl-ish* 
 - So it shouldn't be surprising that _there's more than one way do it_.<br><br>
 
 Those extra blank lines are added using the `<br>` HTML tag, but you can also use two whitespaces at the end of the line like so.  
+Unfortunately, the blank-spaces approach isn't supported by all editors or browsers, and I would recommend sticking with `<br>`<br>
 
 `This is how [a link](https://duckduckgo.com "Duck Duck Go") is embedded.`
 This is how [a link](https://duckduckgo.com "Duck Duck Go") is embedded.
