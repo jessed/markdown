@@ -4,12 +4,17 @@
 
 
 `Italics can use *asterisks* or _underscores_.`
+
 Italics can use *asterisks* or _underscores_.
 
+
 `Bold face also uses **asterisks** or __underscores__.
+
 Bold face also uses **asterisks** or __underscores__.
 
+
 `And predicatably, both approaches can be used ***together*** like ___this___.`
+
 And predicatably, both approaches can be used ***together*** like ___this___.
 
 _Underscores_ can also be __used__ for ___emphasis___, which is very *Perl-ish* of them.
