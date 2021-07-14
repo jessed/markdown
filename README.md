@@ -62,7 +62,7 @@ Here is another example, this time with hover text to describe the [link](https:
 
 
 ##### ...and how to embed an image
-`![10Talk Timeline](https://github.com/jessed/markdown/10talk_timeline.png)`  
+`![10Talk Timeline](https://github.com/jessed/markdown/blob/main/10talk_timeline.png)`  
 ![10Talk Timeline](https://github.com/jessed/markdown/blob/main/10talk_timeline.png)  
 
 
