@@ -71,3 +71,11 @@ Here is another example, this time with hover text to describe the [link](https:
 - Ending lines with double-spaces to create a break _usually_ works, but apparently support is a bit spotty.
 - Using multiple double-space blocks at the end of a line does _not_ create additional blanks lines, for that you need to use `<br>`.
 - I have not been able to successfully indent a line using four spaces, and I'm thinking support for that may not be perfect, either.
+
+
+### To-Do
+- Lists, ordered and unordered
+- Escaping characters
+- Blockquotes
+- Code blocks
+- Embedded HTML examples
