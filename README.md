@@ -1,4 +1,8 @@
-### Emphasis / Basic Formatting
+# Markdown Formatting Examples
+A better-organized and more thorough cheatsheet can be found [here](https://www.markdownguide.org/basic-syntax).  
+
+## Basic Formatting
+#### Emphasis
 Basic emphasis uses aserisks and underscores.<br><br>
 `Italics can use *asterisks* or _underscores_.`  
 Italics can use *asterisks* or _underscores_.<br><br>
@@ -9,13 +13,15 @@ Bold face also uses **asterisks** or __underscores__.<br><br>
 `And predicatably, both approaches can be used _**together**_`  
 And predicatably, both approaches can be used _**together**_.  
 
+#### Paragraphs and blank lines
 Blank lines are added using the `<br>` HTML tag, but you can also use two whitespaces at the end of the line like I do here.  
-To create a paragraph insert a blank line.
 
-Using a blank line before text creates a paragraph, just like the `<p>...</p>` tags in HTML.
+To create a paragraph insert a blank line before the paragraph text.
 
+Using a blank line before text creates a paragraph, just like the `<p>...</p>` tags in HTML.  
     This line is supposed to be indented without being part of a list, but...  
 
+    ...it doesn't seem to work unless it is preceded by a blank line.
 
 ***
 ### Headings
@@ -43,15 +49,21 @@ Horizontal rules (separators) can be created with three asterisks (`***`), dashe
 `___`
 ___
 
+***
+### Links and Embedded Images
+
+##### Simple Link
+`This is how [a link](https://duckduckgo.com) is embedded.`  
+This is how [a link](https://duckduckgo.com) is embedded.
+
+##### Embedding links (with hover text)
+`Here is another example, this time with hover text to describe the [link](https://duckduckgo.com "Is 'a search engine focused on privacy' an oxymoron?")`  
+Here is another example, this time with hover text to describe the [link](https://duckduckgo.com "Is 'a search engine focused on privacy' an oxymoron?")  
 
 
-###### Embedding links (with hover text)
-`This is how [a link](https://duckduckgo.com "Duck Duck Go") is embedded.`  
-This is how [a link](https://duckduckgo.com "Duck Duck Go") is embedded.
-
-###### ...and how to embed an image
-`![10Talk Timeline](https://github.com/jessed/markdown/10talk_timeline.png)`<br>
-![10Talk Timeline](https://github.com/jessed/markdown/blob/main/10talk_timeline.png)
+##### ...and how to embed an image
+`![10Talk Timeline](https://github.com/jessed/markdown/10talk_timeline.png)`  
+![10Talk Timeline](https://github.com/jessed/markdown/blob/main/10talk_timeline.png)  
 
 
 ### Limitations
