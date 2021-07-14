@@ -23,3 +23,7 @@ Unfortunately, the blank-spaces approach isn't supported by all editors or brows
 
 `This is how [a link](https://duckduckgo.com "Duck Duck Go") is embedded.`  
 This is how [a link](https://duckduckgo.com "Duck Duck Go") is embedded.
+
+##### ...and how to embed an image
+`![10Talk Timeline](https://github.com/jessed/markdown/10talk_timeline.png)`
+![10Talk Timeline](https://github.com/jessed/markdown/10talk_timeline.png)
