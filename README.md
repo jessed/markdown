@@ -17,6 +17,8 @@ Bold face also uses **asterisks** or __underscores__.<br><br>
 And predicatably, both approaches can be used _**together**_.
 - I say precictably because the first Markdown editor was written in Perl, so it's no surprise that there's more than one way to do it.
 
+`Wouldn't that bullet point have looked better as a footnote? This is how[^my_footnot](This is a footnote).<br>`
+Wouldn't that bullet point have looked better as a footnote? This is how[^my_footnot](This is a footnote).<br>
 
 Those extra blank lines are added using the `<br>` HTML tag, but you can also use two whitespaces at the end of the line like so.    
 Unfortunately, the blank-spaces approach isn't supported by all editors or browsers, and I would recommend sticking with `<br>`<br><br>
